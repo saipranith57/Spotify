@@ -2,7 +2,7 @@ import React from 'react';
 import NavBar from './NavBar'; // Import the NavBar component
 import { albumsData, songsData } from '../assets/assets';
 import AlbumItems from './AlbumItems';
-import SongsItemcd  from './SongsItem';
+import SongsItem  from './SongsItem';
 const DisplayHome = () => {
   return (
     <>
